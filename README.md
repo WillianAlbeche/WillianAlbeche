@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as iOS Developer at [Apple Developer Academy | PUCRS* ](http://www.bepid.com.br/poa/)
+🔭 I’m currently working as iOS Developer at [Apple Developer Academy | PUCRS ](http://www.bepid.com.br/poa/)
 
 
 <div>
