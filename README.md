@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 </div>
   
 <details><summary><b>Contact</b></summary>
-- [LinkedIn](https://www.linkedin.com/in/willian-albeche-87a890144/)
-- [Gmail](mailto:willianalbeche@gmail.com)
-- [Discord](dsc.bio/5386)
+  
+  - [LinkedIn](https://www.linkedin.com/in/willian-albeche-87a890144/)
+  - [Gmail](mailto:willianalbeche@gmail.com)
+  - [Discord](dsc.bio/5386)
 </details>
 
 
