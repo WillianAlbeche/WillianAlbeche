@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAlbeche&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
-<details><summary><b>Contact</b></summary>
+<details>
+  <summary><b>Contact</b></summary>
   
   - [LinkedIn](https://www.linkedin.com/in/willian-albeche-87a890144/)
   - [Gmail](mailto:willianalbeche@gmail.com)
