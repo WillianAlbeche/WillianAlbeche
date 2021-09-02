@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://discords.com/bio/p/5386">
-    <img src="https://img.shields.io/badge/discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
   <details><summary><b>Contacts</b></summary>
