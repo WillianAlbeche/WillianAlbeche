@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <div>
   <a href="https://github.com/WillianAlbeche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianAlbeche&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAlbeche&exclude_repo=QuadTree_PSB&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAlbeche&exclude_repo=QuadTree_PSB,PSB_ASCII_ART&layout=compact&langs_count=16&theme=radical"/>
     </div>
   
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
