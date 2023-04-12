@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
 
 
-  <div>
+
   <a href="https://github.com/WillianAlbeche">
   <img height="180em" src="https://github-readme-stats-willianalbeche.vercel.app/api?username=WillianAlbeche&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-willianalbeche.vercel.app/api/top-langs/?username=WillianAlbeche&exclude_repo=QuadTree_PSB,PSB_ASCII-ART&layout=compact&langs_count=10&theme=radical"/>
-    </div>
+
   
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
