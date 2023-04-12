@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </div>
 </br>
 
+
+## Contact me
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -35,13 +37,10 @@ Here are some ideas to get you started:
   <a href="https://discords.com/bio/p/5386">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="mailto:willianalbeche@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  <details><summary><b>Contacts</b></summary>
-    
-  * [LinkedIn](https://www.linkedin.com/in/willian-albeche-87a890144/)
-  * [Gmail](mailto:willianalbeche@gmail.com)
-  * [Discord](https://discords.com/bio/p/5386)
-  </details>
 
 
 
