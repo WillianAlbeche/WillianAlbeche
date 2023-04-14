@@ -1,9 +1,24 @@
-### Hi there 👋
+# Hello, and welcome to my GitHub Profile!! 👋
+## I'm Willian Albeche, 21 years old
+ Software engineer student at [PUCRS](https://www.pucrs.br/)
+ 
+  <img align="right" height='250em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g" style='border-radius:50%' />
 
+    
+ - 🔭 Aspiring to be a **Software Architect**
+ - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
+ - 📚 Studying advanced **iOS development** and the beginning of **web development**
+ - 💼 working as an **iOS developer** at [nstituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
+ - ⚡️ Interests in: Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
+ 
+
+ 
 <!--
 **WillianAlbeche/WillianAlbeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 
 - 🌱 I’m currently learning ...
@@ -14,14 +29,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m iOS Developer 
-- 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
+
+
+
 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height='200em' src="https://github-readme-stats.vercel.app/api?username=willianAlbeche&show_icons=true&theme=radical" />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAlbeche&exclude_repo=QuadTree_PSB,PSB_ASCII-ART&layout=compact&theme=radical" />
   </a>
