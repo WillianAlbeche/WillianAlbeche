@@ -1,3 +1,16 @@
+<!--
+**WillianAlbeche/WillianAlbeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # Hello, and welcome to my GitHub Profile!! 👋
 
 ## I'm Willian Albeche, 21 years old
@@ -12,32 +25,10 @@
  - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
  - 📚 Studying advanced **iOS development** and the beginning of **web development**
  - 💼 working as an **iOS developer** at [nstituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
- - ⚡️ Interests in: Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
- 
-
- 
-<!--
-**WillianAlbeche/WillianAlbeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ - ⚡️ Fun Facts: I love Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
 
 
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
- ### GitHub Status
+### GitHub Status
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height='200em' src="https://github-readme-stats.vercel.app/api?username=willianAlbeche&show_icons=true&theme=radical" />
   </a>
