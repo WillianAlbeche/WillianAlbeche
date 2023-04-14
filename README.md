@@ -1,8 +1,11 @@
 # Hello, and welcome to my GitHub Profile!! 👋
+
 ## I'm Willian Albeche, 21 years old
+ <img align="right" height='230em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g"  />
+ 
  Software engineer student at [PUCRS](https://www.pucrs.br/)
  
-  <img align="right" height='250em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g" style='border-radius:50%' />
+ 
 
     
  - 🔭 Aspiring to be a **Software Architect**
@@ -34,19 +37,18 @@ Here are some ideas to get you started:
 
 
 
-<div>
+ ### GitHub Status
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height='200em' src="https://github-readme-stats.vercel.app/api?username=willianAlbeche&show_icons=true&theme=radical" />
   </a>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAlbeche&exclude_repo=QuadTree_PSB,PSB_ASCII-ART&layout=compact&theme=radical" />
   </a>
-</div>
+
 </br>
 
 
-## Contact me
+### Contact me
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
