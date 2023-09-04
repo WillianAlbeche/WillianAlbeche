@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Hello, and welcome to my GitHub Profile!! 👋
 
-## I'm Willian Albeche, 21 years old
+## I'm Willian Albeche, 22 years old
  <img align="right" height='230em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g"  />
  
  Software engineer student at [PUCRS](https://www.pucrs.br/)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - 🔭 Aspiring to be a **Software Architect**
  - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
  - 📚 Studying advanced **iOS development** and the beginning of **web development**
- - 💼 working as an **iOS developer** at [nstituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
+ - 💼 working as an **iOS developer** at [Instituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
  - ⚡️ Fun Facts: I love Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
 
 
