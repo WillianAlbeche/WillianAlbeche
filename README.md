@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💼 working as an **iOS developer** at [Instituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
 -->
 
 # Hello, and welcome to my GitHub Profile!! 👋
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
  - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
  - 🎓 Graduated in Software Engineering | PUCRS
  - 📚 Studying advanced **iOS development** and the beginning of **web development**
- - 💼 working as an **iOS developer** at [Instituto de Pesquisa Eldorado](https://www.eldorado.org.br/)
  - ⚡️ Fun Facts: I love Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
 
 
