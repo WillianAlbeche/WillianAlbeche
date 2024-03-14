@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm Willian Albeche, 22 years old
  <img align="right" height='230em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g"  />
  
- Software engineer student at [PUCRS](https://www.pucrs.br/)
+ Bachelor's Degree in Software Engineering at [PUCRS](https://www.pucrs.br/)
  
  
 
