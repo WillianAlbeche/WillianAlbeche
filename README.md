@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## I'm Willian Albeche, 22 years old
  <img align="right" height='230em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g"  />
  
- Bachelor's Degree in Software Engineering at [PUCRS](https://www.pucrs.br/)
+
  
  
 
-    
+ - 📱🍎 **iOS Developer**
  - 🔭 Aspiring to be a **Software Architect**
  - 🎓 Alumni at [Apple Developer Academy | PUCRS ](https://developeracademy.eldorado.org.br/poa/)
- - 🎓 Graduated in Software Engineering | PUCRS
+ - 🎓 Graduated in Software Engineering | [PUCRS](https://www.pucrs.br/)
  - 📚 Studying advanced **iOS development** and the beginning of **web development**
  - ⚡️ Fun Facts: I love Video Games; I'm a technology enthusiast; </br> Love Science and learn more about the universe and its elements
 
