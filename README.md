@@ -18,8 +18,6 @@ Here are some ideas to get you started:
  <img align="right" height='230em' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xlds00op0l9mro7n0xogllc2hb4jhwq8huikctvk&rid=giphy.gif&ct=g"  />
  
 
- 
- 
 
  - 📱🍎 **iOS Developer**
  - 🔭 Aspiring to be a **Software Architect**
@@ -40,7 +38,8 @@ Here are some ideas to get you started:
 </br>
 
 ### Main projects
-<div style="padding-right: 40px;" >
+Click on any card below to see more details.
+<div  >
     <a href="https://apps.apple.com/br/app/aurora-app/id1631002666">
         <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/c5493837-f3b2-499c-91b4-4c6f9935b085">
     </a>
