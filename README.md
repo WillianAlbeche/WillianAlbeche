@@ -80,7 +80,9 @@ Click on any card below to see more details.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+### 🛠️ Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,swift,java,postman,bitbucket,git,figma,idea)](https://skillicons.dev)
 
 
 
