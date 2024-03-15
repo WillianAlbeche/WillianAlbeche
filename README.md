@@ -65,7 +65,9 @@ Click on any card below to see more details.
     <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/34f5cccc-d402-4568-bfe4-26da9710c427">
 </a>
 
+### 🛠️ Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,swift,java,postman,bitbucket,git,figma,idea)](https://skillicons.dev)
 
 
 ### Contact me
@@ -80,9 +82,7 @@ Click on any card below to see more details.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,swift,java,postman,bitbucket,git,figma,idea)](https://skillicons.dev)
 
 
 
