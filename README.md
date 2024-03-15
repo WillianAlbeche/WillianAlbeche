@@ -39,6 +39,35 @@ Here are some ideas to get you started:
 
 </br>
 
+### Main projects
+<div style="padding-right: 40px;" >
+    <a href="https://apps.apple.com/br/app/aurora-app/id1631002666">
+        <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/c5493837-f3b2-499c-91b4-4c6f9935b085">
+    </a>
+  &nbsp; &nbsp; 
+    <a href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/vitimas-de-crime/">
+        <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/11e23ad9-e69d-487c-85d5-a2c3bd02d55f">
+    </a>
+</div>
+</br>
+
+<div>
+    <a style="padding: 10px;" href="https://www.ages.pucrs.br/lista-de-projetos-2023-1/connect-pharmacy/">
+        <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/200250d4-970a-4d73-869b-d5db78e544dc">
+    </a>
+  &nbsp; &nbsp; 
+    <a style="padding: 10px;" href="https://github.com/WillianAlbeche/projectClothes.git">
+        <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/94f5c172-f991-4773-a58c-28873bb732a2">
+    </a>
+</div>
+</br>
+
+<a style="padding: 10px;" href="https://www.ages.pucrs.br/lista-de-projetos-2020-2/compartilhamento/">
+    <img align="center" height='120em' src= "https://github.com/WillianAlbeche/WillianAlbeche/assets/26680389/34f5cccc-d402-4568-bfe4-26da9710c427">
+</a>
+
+
+
 
 ### Contact me
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
