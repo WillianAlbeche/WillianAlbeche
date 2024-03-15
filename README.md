@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 </br>
 
+#
+
 ### Main projects
 Click on any card below to see more details.
 <div  >
@@ -67,8 +69,13 @@ Click on any card below to see more details.
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,swift,java,postman,bitbucket,git,figma,idea)](https://skillicons.dev)
-
+<div>
+  <img align="left" alt="Swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Xcode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+</div>
+</br>
 
 ### Contact me
  <a href="https://www.linkedin.com/in/willian-albeche-87a890144/">
